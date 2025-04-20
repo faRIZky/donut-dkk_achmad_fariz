@@ -81,5 +81,3 @@ print(f"Sample Prediction: {pred_class}")
 - Akurasi yang dicapai setelah training dan augmentasi cukup tinggi dan stabil.
 
 ---
-
-Kalau kamu ingin aku tambahkan bagian `Requirements`, `Instalasi`, atau misalnya buat markdown dengan preview visual, tinggal bilang aja ya.
