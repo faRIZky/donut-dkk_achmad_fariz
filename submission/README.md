@@ -1,5 +1,3 @@
----
-
 # Food Image Classification with VGG16
 
 Proyek ini melakukan klasifikasi gambar makanan ke dalam 3 kelas: **Sandwich**, **Fries**, dan **Donut** menggunakan Transfer Learning dengan VGG16.
