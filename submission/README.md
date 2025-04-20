@@ -1,5 +1,3 @@
-Berikut README yang bisa langsung kamu **copas dan sesuaikan** sesuai struktur dan hasil proyek kamu:
-
 ---
 
 # Food Image Classification with VGG16
